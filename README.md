@@ -73,6 +73,6 @@ The table below presents scores achieved in the Checkpoint Examinations conducte
 
 ## Conclusion and Contact Information
 
-This portfolio consolidates the essential works and documentation related to Computer Networks and Network Programming completed during the course of study. For any inquiries or further information, please feel free to reach out via the email address provided above.
+This portfolio consolidates the essential works and documentation related to Computer Networks completed during the course of study. For any inquiries or further information, please feel free to reach out via the email address provided above.
 
 *Thank you sincerely for your time and attention.*
