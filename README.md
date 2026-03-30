@@ -1,4 +1,4 @@
-# Network Portfolio
+# Computer Network Portfolio
 
 **Prepared by**  
 Miss Jetnipit Kaewsup นางสาวเจตนิพิฐแก้วทรัพย์  
