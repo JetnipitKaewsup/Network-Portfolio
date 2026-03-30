@@ -36,9 +36,9 @@ The following table lists individual assignments with links to draft documents (
 | Lab | Google Docs Link | PDF File |
 |-----|------------------|----------|
 | Lab 1 | [Access Document](https://docs.google.com/document/d/1yPGKjf_Vyqel0I7MJp_nV9_lddYLbtCoxVzvIvcLr_g/edit?tab=t.0#heading=h.i6v9zgospn0f) | [Download PDF](./LAB%20Documentation/LAB%201.pdf) |
-| Lab 2 | [Access Document](https://docs.google.com/document/d/17L3cVhmQ5m-W2jOnt2Gik3KIyNuMsXzMXjZvWkSPXDI/edit?tab=t.0#heading=h.yc8anss1juf4) | [Download PDF](./LAB%Documentation/LAB%2.pdf) |
-| Lab 3 | [Access Document](https://docs.google.com/document/d/1ay9XhTljggX9RlXcrCvseNOeFKb2ts6Vrp4NaN4QIF8/edit?tab=t.0#heading=h.tmp7gif2nc6x) | [Download PDF](./LAB%Documentation/LAB%3.pdf) |
-| Lab 4 | [Access Document](https://docs.google.com/document/d/1Sy1XJh8N8oPv5xJp0ZU-DQa1TfVb4dvQ6y2ZAhSRq5g/edit?tab=t.0#heading=h.jj0azp8hqked) | [Download PDF](./LAB%Documentation/LAB%4.pdf) |
+| Lab 2 | [Access Document](https://docs.google.com/document/d/17L3cVhmQ5m-W2jOnt2Gik3KIyNuMsXzMXjZvWkSPXDI/edit?tab=t.0#heading=h.yc8anss1juf4) | [Download PDF](./LAB%20Documentation/LAB%202.pdf) |
+| Lab 3 | [Access Document](https://docs.google.com/document/d/1ay9XhTljggX9RlXcrCvseNOeFKb2ts6Vrp4NaN4QIF8/edit?tab=t.0#heading=h.tmp7gif2nc6x) | [Download PDF](./LAB%20Documentation/LAB%203.pdf) |
+| Lab 4 | [Access Document](https://docs.google.com/document/d/1Sy1XJh8N8oPv5xJp0ZU-DQa1TfVb4dvQ6y2ZAhSRq5g/edit?tab=t.0#heading=h.jj0azp8hqked) | [Download PDF](./LAB%20Documentation/LAB%204.pdf) |
 | Lab 5 | [Access Document]() | [Download PDF]() |
 
 ---
