@@ -22,7 +22,7 @@ This document serves as a compilation of academic works and laboratory exercises
 
 The following table lists individual assignments with links to draft documents (Google Docs) and finalized versions (PDF).
 
-| Assignment | Google Docs Link | Final PDF |
+| Assignment | Google Docs Link | PDF File |
 |------------|------------------|----------|
 | Assignment 1 Essay | [Access Document](https://docs.google.com/document/d/1AKEEkuHynLD7qX6Fb2mXQtBIoNEk2YpzHCj2msf2JV4/edit?usp=sharing) | [Download PDF](./Personal%20Assignment%20File/Assignment%201%20Personal%20Essay.pdf) |
 | Assignment 2 Topology | [Access Document](https://docs.google.com/document/d/1uxNZS27z2ilAbIIl7va0wjtITVdWtU31xYx48dMIPLk/edit?usp=sharing) | [Download PDF](./Personal%20Assignment%20File/Assignment%202%20Topology.pdf) |
@@ -33,7 +33,7 @@ The following table lists individual assignments with links to draft documents (
 
 ## Laboratory Reports (Labs 1–5)
 
-| Lab | Google Docs Link | Final PDF |
+| Lab | Google Docs Link | PDF File |
 |-----|------------------|----------|
 | Lab 1 | [Access Document](https://docs.google.com/document/d/1yPGKjf_Vyqel0I7MJp_nV9_lddYLbtCoxVzvIvcLr_g/edit?tab=t.0#heading=h.i6v9zgospn0f) | [Download PDF](./LAB%20Documentation/LAB%201.pdf) |
 | Lab 2 | [Access Document](https://docs.google.com/document/d/17L3cVhmQ5m-W2jOnt2Gik3KIyNuMsXzMXjZvWkSPXDI/edit?tab=t.0#heading=h.yc8anss1juf4) | [Download PDF](./LAB%Documentation/LAB%2.pdf) |
@@ -57,6 +57,7 @@ The following table lists individual assignments with links to draft documents (
 **Course**: Pre1 Computer Networks – Getting Started with Cisco Packet Tracer  
 **Issued by**: Cisco Networking Academy  
 [Download PDF](./Cisco%20Networking%20Academy%20Progress/Certificate.pdf)
+
 ![Certificate](./Cisco%20Networking%20Academy%20Progress/Certificate.png)
 
 ---
