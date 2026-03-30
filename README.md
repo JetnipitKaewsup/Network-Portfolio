@@ -4,6 +4,7 @@
 Miss Jetnipit Kaewsup นางสาวเจตนิพิฐแก้วทรัพย์  
 Student ID : 673380037-1
 Section : 1
+
 Computer Science Program, Year 2  
 College of Computing, Khon Kaen University  
 
@@ -56,12 +57,13 @@ The following table lists individual assignments with links to draft documents (
 **Course**: Pre1 Computer Networks – Getting Started with Cisco Packet Tracer  
 **Issued by**: Cisco Networking Academy  
 
-![Certificate](Cisco%20Networking%20Academy%20Progress/Certificate.pdf)
-
+![Certificate](./Cisco%20Networking%20Academy%20Progress/Certificate.png)
+[Download PDF](./Cisco%20Networking%20Academy%20Progress/Certificate.pdf)
 ---
 
 ## Checkpoint Exam Results
 
+**Course**: CCNA1: Introduction to Networks  
 The table below presents scores achieved in the Checkpoint Examinations conducted as part of the Cisco Networking Academy curriculum, reflecting comprehension of key computer networking concepts.
 
 ![Checkpoint Exam Results](./Cisco%20Networking%20Academy%20Progress/CCNA1%20Introduction%20to%20Networks%20(Checkpoint%20Exam%20Score).png)
