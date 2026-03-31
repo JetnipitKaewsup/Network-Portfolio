@@ -39,7 +39,7 @@ The following table lists individual assignments with links to draft documents (
 | Lab 2 | [Access Document](https://docs.google.com/document/d/17L3cVhmQ5m-W2jOnt2Gik3KIyNuMsXzMXjZvWkSPXDI/edit?tab=t.0#heading=h.yc8anss1juf4) | [Download PDF](./LAB%20Documentation/LAB%202.pdf) |
 | Lab 3 | [Access Document](https://docs.google.com/document/d/1ay9XhTljggX9RlXcrCvseNOeFKb2ts6Vrp4NaN4QIF8/edit?tab=t.0#heading=h.tmp7gif2nc6x) | [Download PDF](./LAB%20Documentation/LAB%203.pdf) |
 | Lab 4 | [Access Document](https://docs.google.com/document/d/1Sy1XJh8N8oPv5xJp0ZU-DQa1TfVb4dvQ6y2ZAhSRq5g/edit?tab=t.0#heading=h.jj0azp8hqked) | [Download PDF](./LAB%20Documentation/LAB%204.pdf) |
-| Lab 5 | [Access Document]() | [Download PDF]() |
+| Lab 5 | [Access Document](https://docs.google.com/document/d/18PV4CJdBuA_8fngGwoIIoOXWUV9kpGeFlViU_uWhV_8/edit?usp=sharing) | [Download PDF](./LAB%20Documentation/LAB%205.pdf) |
 
 ---
 
