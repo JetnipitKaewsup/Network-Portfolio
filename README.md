@@ -60,6 +60,10 @@ The following table lists individual assignments with links to draft documents (
 
 ![Certificate](./Cisco%20Networking%20Academy%20Progress/Certificate.png)
 
+**Course**: CCNA1: Introduction to Networks  
+[Download PDF](./Cisco%20Networking%20Academy%20Progress/CCNAITN%20certificate.pdf)
+
+![Certificate](./Cisco%20Networking%20Academy%20Progress/CCNAITN%20certificate.png)
 ---
 
 ## Checkpoint Exam Results
